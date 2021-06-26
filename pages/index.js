@@ -17,6 +17,12 @@ export default function Home() {
               </ul>
             </div>
           </div>
+
+        <div className="container">
+
+          <img src="/images/banner.png" alt="img-banner" className="img-fluid"/>
+        </div>
+        
         <div className="bubles">
           <div></div>
           <div></div>
@@ -28,11 +34,6 @@ export default function Home() {
           <div></div>
           <div></div>
           <div></div>
-        </div>
-
-        <div className="container">
-
-          <img src="/images/banner.png" alt="img-banner" className="img-fluid"/>
         </div>
     </div>
   )
